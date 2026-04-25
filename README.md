@@ -15,11 +15,11 @@ FREE – No billable resources for basic usage
 ## 📸 Screenshots
 
 **Resource Group Creation**  
-The resource group `rg-storage-lab` was successfully created in Central India.  
+The resource group 'rg-storage-lab' was successfully created in Central India.  
 ![Resource Group](Storage-RG-Creation.png)
 
 **Storage Account Creation**  
-A new storage account `storagelab1001` was provisioned with Standard_LRS in the same resource group.  
+A new storage account 'storagelab1001' was provisioned with Standard_LRS in the same resource group.  
 ![Storage Account](Storage-Account-output.png)
 
 **Storage Account Listing**  
@@ -27,7 +27,7 @@ Listing confirms the storage account exists and is properly configured.
 ![Storage Account Listing](Storage-account-listing-output.png)
 
 **Container Creation**  
-Created a container named `labcontainer` inside the storage account.  
+Created a container named 'labcontainer' inside the storage account.  
 ![Container Creation](container-creation.png)
 
 **Blob Upload**  
