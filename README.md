@@ -29,27 +29,27 @@ Provision and configure Azure Storage resources using PowerShell by deploying a 
 
 ### **Resource Group Deployment**  
 Provisioned a dedicated Azure Resource Group using PowerShell for centralized storage resource management
-![Resource Group](Storage-RG-Creation.png)
+![Resource Group](assets/Storage-RG-Creation.png)
 
 ### **Azure Storage Account Provisioning**  
 Created a StorageV2 Azure Storage Account with locally redundant storage (LRS) replication using PowerShell.
-![Storage Account](Storage-Account-output.png)
+![Storage Account](assets/Storage-Account-output.png)
 
 ### **Storage Resource Validation**  
 Validated successful deployment and configuration of the Azure Storage Account through Azure Portal resource verification. 
-![Storage Account Listing](Storage-account-listing-output.png)
+![Storage Account Listing](assets/Storage-account-listing-output.png)
 
 ### **Blob Container Configuration**  
 Configured a private blob container within the Azrue Storage Account for structrued object storage operations. 
-![Container Creation](container-creation.png)
+![Container Creation](assets/container-creation.png)
 
 ### **Blob Upload Operations**  
 Uploaded and managed blob data within the container using Azure PowerShell storage management commands.
-![Blob Upload](blob-upload.png)
+![Blob Upload](assets/blob-upload.png)
 
 ### **Storage Access Validation**  
 Verified successful blob upload and container accessibility through Azure Portal blob inventory validation.
-![Blob List](blob-list.png)
+![Blob List](assets/blob-list.png)
 
 ## ✅ Operational Validation
  
